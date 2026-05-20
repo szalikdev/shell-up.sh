@@ -66,7 +66,7 @@ chmod +x shell-up.sh
 Or run directly after reviewing the script:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/szalikdev/shell-up/main/shell-up.sh -o shell-up.sh
+curl -fsSL https://raw.githubusercontent.com/szalikdev/shell-up.sh/main/shell-up.sh -o shell-up.sh
 chmod +x shell-up.sh
 ./shell-up.sh
 ```
